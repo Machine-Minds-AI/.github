@@ -2,7 +2,7 @@
 
 ## Connect with Us
 [![Twitter](https://img.shields.io/badge/Twitter-@MachineMindsAI-blue?style=for-the-badge&logo=twitter)](https://twitter.com/MachineMindsAI)
-[![Gumroad](https://img.shields.io/badge/gumroad-MachineMindsAI-pink?style=flat&logo=gumroad)](https://ai.douglas.life)
+[![Gumroad](https://img.shields.io/badge/gumroad-MachineMindsAI-pink?style=for-the-badge&logo=gumroad)](https://ai.douglas.life)
 [![Instagram](https://img.shields.io/badge/discord-Gudaserver-blue?style=for-the-badge&logo=discord)](https://instagram.com/MachineMindsAI)
 
 ### 🚀 Accelerated Development
